@@ -16,4 +16,6 @@ Struktur folder berada dalam format YOLO8 seperti berikut.
 ├── train/ <br>
 ├── valid/ <br>
 ├── test/ <br>
+├── README.dataset.txt <br>
+├── README.roboflow.txt <br>
 └── data.yaml <br>
