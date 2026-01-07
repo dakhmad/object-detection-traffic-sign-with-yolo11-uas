@@ -9,3 +9,11 @@ Dataset dapat diakses melalui:
 
 Dataset diekspor dalam format YOLO8 dan digunakan pada proses training
 dan evaluasi model.
+
+Struktur folder berada dalam format YOLO8 seperti berikut.
+
+📁 dataset/ <br>
+├── train/ <br>
+├── valid/ <br>
+├── test/ <br>
+└── data.yaml <br>
